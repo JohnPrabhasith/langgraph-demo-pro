@@ -1,0 +1,6 @@
+pydantic
+ipykernel
+langchain
+langchain-core
+langchain-community
+langgraph
