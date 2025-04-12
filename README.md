@@ -1,6 +1,6 @@
-Tutorial for Pydantic Framework
+Tutorial for LangGraph
 
-## Create an Environment 
+## Create an Environment
 
 ```bash
 python -m venv .env
